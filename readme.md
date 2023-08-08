@@ -22,5 +22,11 @@ git clone git@github.com:caroljoyv/elements-of-programming-interviews-in-python.
 * Follow the code of conduct to create a positive and inclusive environment.
 * When contributing code, follow the guidelines in the CONTRIBUTING.md file to ensure consistency and quality.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE.md).
+
 ## Disclaimer
 This repository is intended to supplement the Elements of Programming Interviews book. Please respect copyright and licensing restrictions. The solutions and content provided here are for educational purposes and should not be used to facilitate cheating in interview settings.
+
+Happy coding and best of luck with your technical interviews!
